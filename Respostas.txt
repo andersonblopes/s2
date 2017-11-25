@@ -3,7 +3,7 @@
 3 - C
 4 - A
 5 - A
-6 - C
-7 - E
+6 - Certo
+7 - Errado
 8 - Projeto java: Questao8.java
 9 - Projeto java: Questao9.java
